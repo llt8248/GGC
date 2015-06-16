@@ -10,7 +10,7 @@ $(window).resize(function(){
 
 function size(){
 	var _width = $(window).width(); 
-	if(_width > 1280 && _width < 1600){
+	if(_width < 1600){
 		$(".con_zz div").css("width","20%");
 	}
 	if(_width >= 1600 && _width < 1920){
