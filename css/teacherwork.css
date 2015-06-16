@@ -1,0 +1,10 @@
+
+
+/*Header图片*/
+
+.header_bg{ background:url(../images/banner-bg.jpg) no-repeat center; -webkit-background-size: cover; min-width:1280px; height:254px; }
+.content { min-width:1280px;; height:1350px; margin-left: auto; margin-right: auto;}
+.con_title { min-width:1280px; text-align:center; margin-top:40px; margin-bottom:40px;}
+.con_zz { width:98%; height: 394px; overflow:hidden; margin-left:auto; margin-right:auto; position:relative;}
+.con_zz div{ float: left; width:20%; text-align:center; margin-top:40px;}
+
