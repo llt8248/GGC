@@ -19,9 +19,9 @@ $(function(){
         p = (p>$("#scroll_dot span").length-2)?0:(p+1);
         play(p);
     }
-    var auto = setInterval(function(){ autoplay(p)},3000);
+    var auto = setInterval(function(){ autoplay(p)},6000);
     $("#imageShow").mouseover(function(){clearInterval(auto);})
-    $("#imageShow").mouseout (function(){auto = setInterval(function(){ autoplay(p)},3000);})
+    $("#imageShow").mouseout (function(){auto = setInterval(function(){ autoplay(p)},6000);})
 
 })
 
