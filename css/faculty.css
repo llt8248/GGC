@@ -1,0 +1,13 @@
+
+
+/*Header图片*/
+
+.content { width:1280px; height:1500px; margin-left: auto; margin-right: auto;}
+.con_title { width:1280px; text-align:center; margin-top:60px; margin-bottom:60px; font-size: 25px; line-height: 40px;}
+.con_teacher { width: 1000px; margin-left: auto; margin-right: auto; margin-bottom: 40px; }
+.con_teacher .title { font-size: 18px; margin-bottom: 10px;}
+.con_teacher .name { font-size: 22px; margin-right: 10px;}
+.con_teacher .exp { font-size: 14px; line-height: 25px; color: #666;}
+
+.bg_title { text-align: center; font-size: 25px; height: 30px; margin-top: 80px;}
+.bg { background: url(../images/faculty_bg.jpg) ; width: 1100px; height: 330px; margin-left: auto; margin-right: auto; margin-top: 20px;}
